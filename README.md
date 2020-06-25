@@ -9,3 +9,7 @@ To begin the analysis of this kickstarter campaign our group started by collecti
 Included below is a chart which illustrates these findings.
 
 ![Kickstarter Results by Project](graphic2.png)
+##Theatre Events
+To provide mroe relevant analysis to Louise's project,  these projects were filtered to analzye the theatre related events. Analysis focused on United States and Great Britain theatre events across each subcategory.   
+###US Theatres
+There were 912  campaings reviewed for this analysis.  They are filtered between Musicals (96), Plays (671), and Spaces (145).  See the chart below. 
