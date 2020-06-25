@@ -7,4 +7,4 @@ To begin the analysis of this kickstarter campaign our group started by collecti
 - Rock crowdfunding projects had 260 events that were all considered "sucessfull" with 0 failed or cancelled events.
 - Conversely, Animation had 100 "failed" events and no events considered "sucessfull."
 Included below is a chart which illustrates these findings.
-![Kickstarter Results by Project] (Kickstarter results by project.png)
+![help] (graphic1.png)
