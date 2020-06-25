@@ -8,4 +8,4 @@ To begin the analysis of this kickstarter campaign our group started by collecti
 - Conversely, Animation had 100 "failed" events and no events considered "sucessfull."
 Included below is a chart which illustrates these findings.
 
-![Kickstarter Results by Project ](kickstarterresultsbyproject.png)
+![Kickstarter Results by Project ](kickstarter results by project.png)
