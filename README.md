@@ -32,3 +32,13 @@ A deeper analysis was taken into kickstarter campains for musicals.
 The average goal amount of the campains was $4,059 with a median of $2,000.  This represents a skew resulting from large campaigns as half of all campaigns goals range from $537 to $5625. The average pledged amount $1046 with a median of $386. Have of all of the campains had pledged totals ranging between $28 and $1496. 
 ## Conclusions
 Louise has a wealth of data to choose from when viewing the results of crowdfunding campaings for theatre events.  Sucessfull events typically have a goal around $5000-$12000 though there are larger campaings that were sucessful. Careful planning will be important if Louise is planning a campain larger than 12,000 and she may want analyze other factors which may contribute to the overall sucess of the campaign. 
+### Challenge
+An extended of analysis of kickstarter crowdfunding provides interesting new insights when considering the information from a different view. 
+- Outcomes Based on Goals 
+-- When reviewing the data after organizing the goal amount by the campaign outcome categories i.e. sucessfull, failed, canceled, and live; The failure rate generally increased with the increase in goal amount with the exception of goals ranging from $40009. 0-$44999. 
+-- The most sucessful campaigns were goals within the lower and upper quartile range of $5000 to $11,750. These successful outcomes accounted for 85.5% of all sucessfull outcomes.
+- Outcomes Based on Launched Date
+-- When reviewing the data after organizing the  campaign outcome categories by month, the data reveals that summer months (May-Aug) have the highest activity with the largers margin of sucess to failure.  
+-- December has the lowest margin of sucess to failure. 
+-- January has the highest rate of cancellation throughout the year though it is fairly steady with the exception of July and October where there is 1 and 0 cancellations respectively. 
+Some reasonable conclusions that can be drawn from this analysis is that planners should try to stay to a goal range of within the lower and upper quartile range of $5000 to $11,750 and plan to launch the events in the summer months.  Towards the end of the year in December and January are times to avoid if you want to maximize the potential for a sucessful event.  I recommend additional charts and figures which sort this data by country or by type of theatre event particularly musicals since that is Louises anticpated pursuit. 
