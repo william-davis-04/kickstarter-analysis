@@ -21,7 +21,7 @@ There were 912  campaigns reviewed for this analysis.  They are filtered between
 - Regarding spaces, 46.8% of the muscials had sucessful campains with 40.6% of the musicals failing and 10.3% cancellations. Approximately 2% of the events were live.
 A deeper analysis was taken into kickstarter campains for musicals. 
 The average goal amount of the campains was $50,960 with a median of $25,000.  This represents a skew resulting from large campaigns as half of all campaigns goals range from $5000 to $11,750. The average pledged amount $3005 with $8725. Have of all of the campains had pledged totals ranging between $1393 and $3990. 
-## Great Britain Theatre Campaigns
+### Great Britain Theatre Campaigns
 A review for comparison was also taken of Great Britain's kickestarter theatre campains. There were 359  campaings reviewed for this analysis.  They are filtered between Musicals (26), Plays (314), and Spaces (19).  See the chart below.
 
 ![Kickstarter Results by Project](pivot_table2.png)
