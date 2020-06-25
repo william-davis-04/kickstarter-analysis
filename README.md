@@ -14,4 +14,5 @@ Included below is a chart which illustrates these findings.
 To provide mroe relevant analysis to Louise's project,  these projects were filtered to analzye the theatre related events. Analysis focused on United States and Great Britain theatre events across each subcategory.   
 ### US Theatres
 There were 912  campaigns reviewed for this analysis.  They are filtered between Musicals (96), Plays (671), and Spaces (145).  See the chart below. 
+
 ![U.S. Theatre Campaings](pivot_table1.png)
